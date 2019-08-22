@@ -1,0 +1,15 @@
+{
+  "Configuracion": {
+    "host": "smtp.gmail.com",
+    "port": "587",
+    "user": "pruebaemailtoi@gmail.com",
+    "password": "toi1251070",
+    "enableSsl": "true"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
